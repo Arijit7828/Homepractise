@@ -4,5 +4,6 @@ project(Homepractise)
 set(CMAKE_CXX_STANDARD 23)
 
 add_executable(Homepractise
-        home1.c
+
+        home2.c
 )

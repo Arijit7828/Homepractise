@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/dutta/CLionProjects/Homepractise/cmake-build-deb
 
 build cmake_object_order_depends_target_Homepractise: phony || CMakeFiles/Homepractise.dir
 
-build CMakeFiles/Homepractise.dir/home1.c.obj: C_COMPILER__Homepractise_unscanned_Debug C$:/Users/dutta/CLionProjects/Homepractise/home1.c || cmake_object_order_depends_target_Homepractise
-  DEP_FILE = CMakeFiles\Homepractise.dir\home1.c.obj.d
+build CMakeFiles/Homepractise.dir/home2.c.obj: C_COMPILER__Homepractise_unscanned_Debug C$:/Users/dutta/CLionProjects/Homepractise/home2.c || cmake_object_order_depends_target_Homepractise
+  DEP_FILE = CMakeFiles\Homepractise.dir\home2.c.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\Homepractise.dir
   OBJECT_FILE_DIR = CMakeFiles\Homepractise.dir
@@ -63,7 +63,7 @@ build CMakeFiles/Homepractise.dir/home1.c.obj: C_COMPILER__Homepractise_unscanne
 #############################################
 # Link the executable Homepractise.exe
 
-build Homepractise.exe: C_EXECUTABLE_LINKER__Homepractise_Debug CMakeFiles/Homepractise.dir/home1.c.obj
+build Homepractise.exe: C_EXECUTABLE_LINKER__Homepractise_Debug CMakeFiles/Homepractise.dir/home2.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Homepractise.dir
