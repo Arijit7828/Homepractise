@@ -1,0 +1,3 @@
+C:/Users/dutta/CLionProjects/Homepractise/cmake-build-debug/CMakeFiles/Homepractise.dir
+C:/Users/dutta/CLionProjects/Homepractise/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dutta/CLionProjects/Homepractise/cmake-build-debug/CMakeFiles/rebuild_cache.dir
