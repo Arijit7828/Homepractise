@@ -10,7 +10,7 @@ int main(){
         printf("student got grade B");
     }else if(marks < 30 ){
         printf("student got grade C ");
-    }else if(marks > 90  && marks < 100){
+    }else if(marks > 90  && marks <= 100){
         printf("grade A ");
     }else{
         printf("wrong input:");
