@@ -1,4 +1,4 @@
-//
+//define and decleration
 // Created by dutta on 23-11-2023.
 //
 #include<stdio.h>
