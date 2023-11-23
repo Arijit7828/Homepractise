@@ -1,10 +1,10 @@
 # ninja log v5
 2	71	7214780391865042	CMakeFiles/Homepractise.dir/home1.c.obj	763b1a2aee22463
-1	65	7224619477553772	CMakeFiles/Homepractise.dir/home14.c.obj	29cf7e11c1762681
-65	141	7224619478231869	Homepractise.exe	425d0da42eccbc54
-0	328	7214762335632153	CMakeFiles/Homepractise.dir/main.cpp.obj	62d657b614c707b9
 5	258	7223799463969358	CMakeFiles/Homepractise.dir/home4.c.obj	a803e24dcbbd3f5a
-0	107	7224626088128676	build.ninja	5f579ce6c19c037a
+1	65	7224619477553772	CMakeFiles/Homepractise.dir/home14.c.obj	29cf7e11c1762681
+62	137	7224626089599098	Homepractise.exe	e377fb851ef29beb
+0	328	7214762335632153	CMakeFiles/Homepractise.dir/main.cpp.obj	62d657b614c707b9
+1	114	7224629342772478	build.ninja	5f579ce6c19c037a
 2	59	7214799970504856	CMakeFiles/Homepractise.dir/home2.c.obj	316666e468dfc8dd
 1	66	7214801909020348	CMakeFiles/Homepractise.dir/home3.c.obj	f4b1c166e4aab714
 0	2196	7224227502501332	CMakeFiles/Homepractise.dir/home5.c.obj	7d859d3447b159dc
@@ -16,6 +16,7 @@
 1	223	7224577822286567	CMakeFiles/Homepractise.dir/home11.c.obj	1aab4065b84d6fd0
 1	182	7224585220748661	CMakeFiles/Homepractise.dir/home12.c.obj	746ab4f6643649a4
 2	62	7224614342161786	CMakeFiles/Homepractise.dir/home13.c.obj	213001b0a946b0c0
-1	114	7224626088128676	build.ninja	5f579ce6c19c037a
 0	62	7224626088888576	CMakeFiles/Homepractise.dir/home15.c.obj	7149b83362abfe61
-62	137	7224626089599098	Homepractise.exe	e377fb851ef29beb
+1	125	7224629342772478	build.ninja	5f579ce6c19c037a
+0	55	7224629343578622	CMakeFiles/Homepractise.dir/home16.c.obj	585af7a6d9bd2223
+56	139	7224629344376726	Homepractise.exe	c2e4908e8b911ec7
