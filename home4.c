@@ -13,5 +13,5 @@ int main() {
     }
 
     printf("Length of the string: %d\n", length);
-    
+
 }
