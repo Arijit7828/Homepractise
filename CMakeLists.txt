@@ -6,6 +6,7 @@ set(CMAKE_CXX_STANDARD 23)
 add_executable(Homepractise
 
 
-        home13.c
+
+        home14.c
 
 )
