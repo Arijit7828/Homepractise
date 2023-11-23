@@ -19,5 +19,5 @@ int main() {
 
         fclose(file);
     }
-    
+
 }

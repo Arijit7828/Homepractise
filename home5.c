@@ -17,5 +17,4 @@ int main() {
         printf("Friend #%d: %s\n", i + 1, bestFriends[i].name);
     }
 
-    return 0;
 }
